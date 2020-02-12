@@ -12,14 +12,10 @@ rel="nofollow">Rocketseat</a>.</p>
 <blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wendhio/fastfeet/">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wendhio/fastfeet">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/wendhio/fastfeet">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wendhio/fastfeet">
-  <img alt="GitHub" src="https://img.shields.io/github/license/wendhio/fastfeet">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
 </p>
-
-[github-languages-image]: https://img.shields.io/github/languages/top/commonality/getting-started-inner-source.svg?style=flat-square
 
 ## :date: Entregas
 
