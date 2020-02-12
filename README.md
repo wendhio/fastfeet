@@ -17,8 +17,9 @@ rel="nofollow">Rocketseat</a>.</p>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/wendhio/fastfeet">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wendhio/fastfeet">
   <img alt="GitHub" src="https://img.shields.io/github/license/wendhio/fastfeet">
-  [github-languages-image]: https://img.shields.io/github/languages/top/commonality/getting-started-inner-source.svg?style=flat-square
 </p>
+
+[github-languages-image]: https://img.shields.io/github/languages/top/commonality/getting-started-inner-source.svg?style=flat-square
 
 ## :date: Entregas
 
