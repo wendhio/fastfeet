@@ -17,7 +17,7 @@ class SessionController {
       return res.status(401).json('Senha incorreta!');
     }
 
-    const { id, name } = req.body;
+    const { id, name } = user;
 
     return res.json({
       user: {
