@@ -1,22 +1,22 @@
 <h1 align="center">
 <br>
-  <img src=".github/logo.png" alt="Fastfeet" width="300px">
+  <img src=".github/logo.png" alt="FastFeet" width="300px">
 <br>
 <br>
 FASTFEET
 </h1>
 
-<p align="center">FastFeet é uma aplicação completa (Back-end, Front-end e Mobile) que é avaliada para emissão do Certificado do Bootcamp GoStack da <a href="https://rocketseat.com.br/gostack" 
+<p align="center">FASTFEET é uma aplicação completa (Back-end, Front-end e Mobile) que é avaliada para emissão do Certificado do Bootcamp GoStack da <a href="https://rocketseat.com.br/gostack" 
 rel="nofollow">Rocketseat</a>.</p>
 
 <blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wendhio/fastFeet">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wendhio/fastFeet">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/wendhio/fastFeet">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wendhio/fastFeet">
-  <img alt="GitHub" src="https://img.shields.io/github/license/wendhio/fastFeet">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wendhio/fastfeet">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wendhio/fastfeet">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/wendhio/fastfeet">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wendhio/fastfeet">
+  <img alt="GitHub" src="https://img.shields.io/github/license/wendhio/fastfeet">
 </p>
 
 ## :date: Entregas
@@ -43,7 +43,7 @@ Para clonar e executar esta aplicação é necessário o [Git](https://git-scm.c
 
 Clone o projeto
 
-`$ git clone https://github.com/wendhio/fastFeet.git`
+`$ git clone https://github.com/wendhio/fastfeet.git`
 
 ### BackEnd
 
