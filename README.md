@@ -33,6 +33,9 @@ Esta aplicatição apresenta todas as mais recentes ferramentas e práticas em d
 - 💹 [**Node Js**](https://nodejs.org/en/) — Ambiente de execução Javascript no servidor.
 - [Express](https://expressjs.com/)
 - [Sequelize](https://sequelize.org/v5/manual/getting-started.html) - ORM para abstração do banco de dados em objetos JavaScrit.
+- [Yup](https://github.com/jquense/yup) - Valida os dados de entrada.
+- [BcryptJS](https://www.npmjs.com/package/bcryptjs) - Criptografia da senha.
+- [JWT](https://jwt.io/) - Transmitir com segurança os dados como um objeto JSON.
 
 ## Getting started
 
@@ -74,10 +77,11 @@ OBS.: Documentar as rotas com _swagger_....
 
 ### Ferramentas de Desenvolvimento
 
-- [Nodemon](https://www.npmjs.com/package/nodemon) - Script de monitor simples para Nodejs
-- [Sucrase](https://sucrase.io/) - Para utilizar várias funções do ES6 (ECMAScript 6)
-- [ESLint](https://github.com/eslint/eslint) - Lib para identificar erros envolvendo padronização de códigos
-- [Prettier](https://github.com/prettier/prettier) - Deixa o código muito mais bonito
+- [Nodemon](https://www.npmjs.com/package/nodemon) - Script de monitor simples para Nodejs.
+- [Sucrase](https://sucrase.io/) - Para utilizar várias funções do ES6 (ECMAScript 6).
+- [ESLint](https://github.com/eslint/eslint) - Lib para identificar erros envolvendo padronização de códigos.
+- [Prettier](https://github.com/prettier/prettier) - Deixa o código muito mais bonito.
+- [Sequelize-cli](https://github.com/sequelize/cli) - Interface de linha de comando do Sequelize.
 
 ## License
 
