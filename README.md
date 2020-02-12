@@ -32,6 +32,7 @@ Esta aplicatição apresenta todas as mais recentes ferramentas e práticas em d
 - ⚛️ [**React Native**](https://facebook.github.io/react-native/) — Uma biblioteca que fornece uma maneira de criar aplicativos nativos para Android e iOS.
 - 💹 [**Node Js**](https://nodejs.org/en/) — Ambiente de execução Javascript no servidor.
 - [Express](https://expressjs.com/)
+- [Sequelize](https://sequelize.org/v5/manual/getting-started.html) - ORM para abstração do banco de dados em objetos JavaScrit.
 
 ## Getting started
 
