@@ -36,6 +36,7 @@ Esta aplicatição apresenta todas as mais recentes ferramentas e práticas em d
 - [Yup](https://github.com/jquense/yup) - Valida os dados de entrada.
 - [BcryptJS](https://www.npmjs.com/package/bcryptjs) - Criptografia da senha.
 - [JWT](https://jwt.io/) - Transmitir com segurança os dados como um objeto JSON.
+- [Yup](https://github.com/jquense/yup) - Validar dados de entrada.
 
 ## Getting started
 
