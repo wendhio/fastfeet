@@ -6,7 +6,7 @@
   "author": "wendhio <wendhio.santos@dcomp.ufs.br>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/server.js",
+    "dev": "node src/server.js",
     "dev:debug": "nodemon --inspect src/server.js"
   },
   "dependencies": {
