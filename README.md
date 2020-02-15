@@ -19,7 +19,7 @@ rel="nofollow">Rocketseat</a>.</p>
 
 ## :date: Entregas
 
-- [Etapa1](https://github.com/Rocketseat/bootcamp-gostack-desafio-02) - [ ]
+- [Etapa1](https://github.com/Rocketseat/bootcamp-gostack-desafio-02) - [x]
 - [Etapa2](https://github.com/Rocketseat/bootcamp-gostack-desafio-03) - [ ]
 - [Etapa3](https://github.com/Rocketseat/bootcamp-gostack-desafio-04) - [ ]
 - [Etapa4](https://github.com/Rocketseat/bootcamp-gostack-desafio-05) - [ ]
@@ -32,11 +32,10 @@ Esta aplicatição apresenta todas as mais recentes ferramentas e práticas em d
 - ⚛️ [**React Native**](https://facebook.github.io/react-native/) — Uma biblioteca que fornece uma maneira de criar aplicativos nativos para Android e iOS.
 - 💹 [**Node Js**](https://nodejs.org/en/) — Ambiente de execução Javascript no servidor.
 - [Express](https://expressjs.com/)
-- [Sequelize](https://sequelize.org/v5/manual/getting-started.html) - ORM para abstração do banco de dados em objetos JavaScrit.
+- [Sequelize](https://sequelize.org/v5/manual/getting-started.html) - ORM para abstração do banco de dados em objetos JavaScript.
 - [Yup](https://github.com/jquense/yup) - Valida os dados de entrada.
 - [BcryptJS](https://www.npmjs.com/package/bcryptjs) - Criptografia da senha.
 - [JWT](https://jwt.io/) - Transmitir com segurança os dados como um objeto JSON.
-- [Yup](https://github.com/jquense/yup) - Validar dados de entrada.
 
 ## Getting started
 
